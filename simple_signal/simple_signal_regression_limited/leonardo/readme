@@ -1,0 +1,7 @@
+Vocabolary size = 5 simboli
+il segnale è un vettore di 10 valori (window size = 10)
+
+file "fitness": alla riga i trovi la fitness del sender alla generazione i
+viz_signal.py: contiene uno script per visualizzare il segnale o stampare su testo i valori
+pickles: contiene i file pickle delle reti, se vuoi aprirli serve il file config_sender che trovi nella cartella
+signals: contiene un file per ogni generazione, per ogni file, alla riga i c'è il segnale relativo al tentativo di comunicare il simbolo i
