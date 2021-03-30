@@ -8,6 +8,7 @@ The evolution of symbolic communication is a longstanding open research question
 ## Usage
 
 ## Supplementary Material
+Supplementary Material is available [here](https://github.com/FraLotito/evol-signal-comm/blob/main/supplementary.pdf).
 
 ## Acknowledgments
 [neat-python](https://github.com/CodeReclaimers/neat-python)
