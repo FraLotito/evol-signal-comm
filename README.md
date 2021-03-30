@@ -9,4 +9,4 @@ The evolution of symbolic communication is a longstanding open research question
 [neat-python](https://github.com/CodeReclaimers/neat-python)
 
 ## Citing
-Quintino Francesco Lotito, Leonardo Lucio Custode, and Giovanni Iacca. *A Signal-Centric Perspective on the Evolution of Symbolic Communication*. **To appear at GECCO'21.** 
+Quintino Francesco Lotito, Leonardo Lucio Custode, and Giovanni Iacca. *A Signal-Centric Perspective on the Evolution of Symbolic Communication*. https://doi.org/10.1145/3449639.3459273 **To appear at GECCO'21**
